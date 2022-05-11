@@ -66,7 +66,7 @@ const CONFIG = {
 		{
 			id: '3',
 			name: 'News',
-			icon: 'globe'
+			icon: 'globe',
 			link: 'https://news.google.com',
 		},
 		{
