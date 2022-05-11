@@ -53,39 +53,39 @@ const CONFIG = {
 	firstButtonsContainer: [
 		{
 			id: '1',
-			name: 'Github',
-			icon: 'github',
-			link: 'https://github.com/',
-		},
-		{
-			id: '2',
-			name: 'Mail',
-			icon: 'mail',
-			link: 'https://mail.google.com/',
-		},
-		{
-			id: '3',
 			name: 'Discord',
 			icon: 'bot',
 			link: 'https://canary.discord.com/channels/@me',
 		},
 		{
-			id: '4',
-			name: 'Calendar',
-			icon: 'calendar',
-			link: 'https://calendar.google.com/calendar/r',
-		},
-		{
-			id: '5',
+			id: '2',
 			name: 'Reddit',
 			icon: 'glasses',
 			link: 'https://reddit.com/r/all',
 		},
 		{
+			id: '3',
+			name: 'News',
+			icon: 'globe'
+			link: 'https://news.google.com',
+		},
+		{
+			id: '4',
+			name: 'Mail',
+			icon: 'mail',
+			link: 'https://mail.google.com/',
+		},
+		{
+			id: '5',
+			name: 'Calendar',
+			icon: 'calendar',
+			link: 'https://calendar.google.com/calendar/r',
+		},
+		{
 			id: '6',
-			name: 'Youtube',
-			icon: 'youtube',
-			link: 'https://youtube.com/',
+			name: 'Github',
+			icon: 'github',
+			link: 'https://github.com/',
 		},
 	],
 
@@ -139,20 +139,20 @@ const CONFIG = {
 			id: '1',
 			links: [
 				{
-					name: 'Inspirational',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Hard',
+					link: 'https://www.youtube.com/watch?v=AzfSrJXMKZ4',
 				},
 				{
 					name: 'Classic',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					link: 'https://www.youtube.com/watch?v=ZKFwQFBwQFU',
 				},
 				{
-					name: 'Oldies',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Dance',
+					link: 'https://www.youtube.com/watch?v=Ke2oEcMDzY4',
 				},
 				{
-					name: 'Rock',
-					link: 'https://www.youtube.com/watch?v=dQw4w9WgXcQ',
+					name: 'Ghibli Mix',
+					link: 'https://www.youtube.com/watch?v=UwxatzcYf9Q&list=RDQMv0enRxZTPzQ',
 				},
 			],
 		},
@@ -161,20 +161,20 @@ const CONFIG = {
 			id: '2',
 			links: [
 				{
-					name: 'Linkedin',
-					link: 'https://www.linkedin.com',
+					name: 'ESS',
+					link: 'ess.kingcounty.gov',
 				},
 				{
-					name: 'Dribbble',
-					link: 'https://www.dribbble.com',
+					name: 'Outlook',
+					link: 'https://outlook.office365.com/mail/',
 				},
 				{
-					name: 'Trello',
-					link: 'https://www.trello.com',
+					name: 'Teams',
+					link: 'https://teams.microsoft.com',
 				},
 				{
-					name: 'Slack',
-					link: 'https://www.slack.com',
+					name: 'AutoDesk',
+					link: 'https://www.autodesk.com/',
 				},
 			],
 		},
